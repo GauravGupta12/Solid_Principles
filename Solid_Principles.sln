@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid_Principles", "Solid_Principles\Solid_Principles.csproj", "{2740F13A-BDBC-4462-B7AE-B456B2324E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2740F13A-BDBC-4462-B7AE-B456B2324E1D}.Debug|x86.ActiveCfg = Debug|x86
+		{2740F13A-BDBC-4462-B7AE-B456B2324E1D}.Debug|x86.Build.0 = Debug|x86
+		{2740F13A-BDBC-4462-B7AE-B456B2324E1D}.Release|x86.ActiveCfg = Release|x86
+		{2740F13A-BDBC-4462-B7AE-B456B2324E1D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
