@@ -1,4 +1,4 @@
-This is repository is created to help understand SOLID Principles with basic examples.
+This repository is created to help understand SOLID Principles with basic examples.
 
 # SOLID principles are core of OOPs programming and helps in writing scalable and maintainable code.
 # There are 5 principles as explained below :
