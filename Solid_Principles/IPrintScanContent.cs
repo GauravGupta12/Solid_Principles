@@ -25,7 +25,7 @@ namespace Solid_Principles
     }
 }
 // Open Closed Principle
-// If not followed --. following repeercussions 
+// If not followed --. following repercussions 
 // 1. if a class always allows the addition of new logic, we end up testing the entire functionality along 
 // with the requirement
 // 2. breaks the single responsibilty principle
