@@ -75,7 +75,7 @@ namespace Solid_Principles
     }
     public class LSPMain
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             List<EmployeeLSP> employees = new List<EmployeeLSP>
             {

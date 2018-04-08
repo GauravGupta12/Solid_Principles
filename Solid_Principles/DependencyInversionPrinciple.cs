@@ -17,9 +17,25 @@ namespace Solid_Principles
     public class DataAccessLayer : IRepositoryLayer
     {
         public int Save(Employee emp)
-        {
+        { 
             // save logic
+            Console.WriteLine("Save from Data Access Layer");
             return 1; 
         }
     }
+
+    public class DIPMain
+    {
+        public static void Main(string[] args)
+        {
+            IRepositoryLayer dal = new DataAccessLayer();
+            BusinessLogicLayer bl = new BusinessLogicLayer(dal);
+
+            Employee emp = new PermanentEmployee(1, "James");
+            var flag = dal.Save(emp);
+
+            Console.ReadLine();
+        }
+    }
+
 }
