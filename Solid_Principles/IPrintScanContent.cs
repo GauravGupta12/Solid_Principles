@@ -29,4 +29,4 @@ namespace Solid_Principles
 // 1. if a class always allows the addition of new logic, we end up testing the entire functionality along 
 // with the requirement
 // 2. breaks the single responsibilty principle
-// 3. increases maintenan ce overhead
+// 3. increases maintenance overhead
